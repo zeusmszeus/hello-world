@@ -1,2 +1,3 @@
 # hello-world
-create a repository
+
+I love Hollow Knight.
